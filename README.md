@@ -19,11 +19,6 @@ npm run dev           # http://localhost:3000
 
 ## Test Accounts (after seed)
 
-| Role | Email | Password |
-|------|-------|----------|
-| Super Admin | admin@cab.com | Admin@123 |
-| Passenger | john@gmail.com | User@123 |
-| Driver | ravi@gmail.com | Driver@123 |
 
 ## Authentication Module
 
