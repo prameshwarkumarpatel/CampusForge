@@ -38,6 +38,8 @@ app.use('/api/drivers', require('./routes/driver'));
 app.use('/api/vehicles', require('./routes/vehicle'));
 app.use('/api/rides', require('./routes/ride'));
 app.use('/api/coupons', require('./routes/coupon'));
+app.use('/api/payments', require('./routes/payment'));
+app.use('/api/reports', require('./routes/report'));
 app.use('/api/admin', require('./routes/admin'));
 app.use('/api/notifications', require('./routes/notification'));
 app.use('/api/wallet', require('./routes/wallet.routes'));
